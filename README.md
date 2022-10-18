@@ -1,5 +1,14 @@
-### Hi there 👋
-
+```json
+{
+  "Hi There": "Hi There, i am"
+  "Name": "Jason Brandon"
+  "age": "20"
+  "Locale": "nl-nl"
+  "Hobbys": ["Programming", "Habbo", "3D printing"]
+  "Empolyed at": "McDonnalds Netherlands"
+  "Discord": "Brandon Deen#1694"
+}
+```
 <!--
 **MisterDeen1694/MisterDeen1694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
