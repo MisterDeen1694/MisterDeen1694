@@ -1,7 +1,7 @@
 ```json
 {
   "Hi There": "Hi There, i am"
-  "Name": "Brandon Deen"
+  "Name": "Brandon/Daisy Deen"
   "age": "21"
   "Locale": "nl-nl"
   "Hobbys": ["Programming", "Habbo", "3D printing"]
