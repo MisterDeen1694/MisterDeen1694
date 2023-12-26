@@ -5,8 +5,13 @@
   "age": "21"
   "Locale": "nl-nl"
   "Hobbys": ["Programming", "Habbo", "3D printing"]
-  "Empolyed at": "McDonnalds Netherlands"
-  "Discord": "Brandon Deen#1694"
+  "Empolyed_at": "McDonnalds Netherlands"
+  "Current_projects": {
+    "NFC_Monopoly": {
+      "Name": "NFCMonopoly"
+      "Description": "An app that works with NFC chips to play monopoly without the money hassle"
+    }
+  }
 }
 ```
 <!--
