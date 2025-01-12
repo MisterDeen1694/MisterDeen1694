@@ -1,5 +1,21 @@
-## Hi there 👋
-
+```json
+{
+  "Hi There": "Hi There, i am"
+  "Name": "Jason Brandon Deen"
+  "age": "22"
+  "Locale": "nl-nl"
+  "Hobbys": ["Programming", "Habbo", "3D printing"]
+  "Empolyed_at": "InterFastFood Service Netherlands"
+  "Current_projects": {
+      "_comment": "Private jobs are not listed",
+      "NFC_Monopoly": {
+        "Name": "NFCMonopoly"
+        "Description": "An app that works with NFC chips to play monopoly without the money hassle"
+        "state": "Hold"
+      }
+  }
+}
+```
 <!--
 **MisterDeen1694/MisterDeen1694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
