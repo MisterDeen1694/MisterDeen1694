@@ -12,6 +12,11 @@
         "Name": "NFCMonopoly"
         "Description": "An app that works with NFC chips to play monopoly without the money hassle"
         "state": "Hold"
+      }, 
+      "EcomProject": {
+        "Name": "Ecom Project"
+        "Description": "A Ecom learning project made using stripe api and astro"
+        "state": "Active"
       }
   }
 }
